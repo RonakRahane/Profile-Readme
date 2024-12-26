@@ -43,6 +43,14 @@ I'm a **Software Developer** and **UI/UX Designer** passionate about creating in
 - 🌐 [Personal Website](https://ronakrahane.dev) (Coming Soon)
 
 ---
+## 📊 GitHub Stats
+![Ronak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonakRahane&show_icons=true&theme=radical)
+
+## 🔥 Contributions
+![Ronak's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RonakRahane&theme=radical)
+
+## 🌟 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RonakRahane&layout=compact&theme=radical)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonakRahane&theme=radical" alt="Ronak's GitHub Streak"/>
