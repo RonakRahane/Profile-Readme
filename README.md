@@ -15,14 +15,6 @@ I'm a **Software Developer** and **UI/UX Designer** passionate about creating in
 
 ### 📊 GitHub Stats:
 
-| **Metric**                    | **Value**    |
-|--------------------------------|--------------|
-| ⭐ **Total Stars**             | 25           |
-| 🖊 **Total Commits (2024)**    | 1.5k         |
-| 🔗 **Total PRs**               | 120          |
-| 🚩 **Total Issues**            | 45           |
-| 🔄 **Contributions (last year)** | 20         |
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RonakRahane&show_icons=true&theme=radical" alt="Ronak Rahane's GitHub Stats"/>
 </p>
