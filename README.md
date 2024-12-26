@@ -19,5 +19,5 @@ I'm a [your profession or role, e.g., technical writer, software engineer, etc.]
 | 🔄 **Contributions (last year)** | 7 |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical" alt="<RonakRahane>'s GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=<RonakRahane>&show_icons=true&theme=radical" alt="<RonakRahane>'s GitHub Stats"/>
 </p>
